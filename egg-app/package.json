@@ -1,9 +1,10 @@
 {
-  "name": "egg-app",
+  "name": "egg.spaces",
   "version": "0.0.0",
   "description": "eggy",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "boundless",
@@ -13,7 +14,8 @@
     "react-dom": "^15.4.2",
     "react-router": "^3.0.2",
     "reflux": "^6.2.0",
-    "webpack": "2.2.1"
+    "stylus": "^0.54.5",
+    "webpack": "^2.2.1"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.0.4",

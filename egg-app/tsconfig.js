@@ -1,4 +1,4 @@
-{
+module.exports = {
   "compilerOptions": {
     "outDir": "./dist/",
     "sourceMap": true,
@@ -10,4 +10,4 @@
   "include": [
     "./src/**/*"
   ]
-}
+};
