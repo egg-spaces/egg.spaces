@@ -1,5 +1,5 @@
 # egg.spaces
 
-##Developers
-
+jvmaynard
+nimejia
 Cynabel
