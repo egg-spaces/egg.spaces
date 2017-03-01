@@ -1,5 +1,4 @@
 # egg.spaces
 
-##Developers
-
+radiohYbrid
 Cynabel
