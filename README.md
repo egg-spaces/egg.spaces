@@ -3,18 +3,18 @@
 ###Featured Developers :D
 
 [jvmaynard](https://github.com/jvmaynard)
+
 [nimejia](https://github.com/nimejia)
+
 [Cynabel](https://github.com/cynabel)
+
 [sydward](https://github.com/radiohYbrid)
 
 ###Squadron Leaders <3
 
 [Hypaethral](https://github.com/Hypaethral)
-[dnaf](https://github.com/dnaf)
 
-###Who the heck are we?
-
-Dev Bros (aka eggdevelopers) is a discord community dedicated to providing new developers and designers a place to grow, be curious and make mistakes, while providing a platform for more experience developers to share their knowledge and cultivate the next generation of good eggs.
+[katie](https://github.com/dnaf)
 
 ###What the heck is this?
 
