@@ -1,6 +1,6 @@
 # egg.spaces
 
-###Featured Developers :D
+### Featured Developers :D
 
 [jvmaynard](https://github.com/jvmaynard)
 
@@ -10,13 +10,13 @@
 
 [sydward](https://github.com/radiohYbrid)
 
-###Squadron Leaders <3
+### Squadron Leaders :heart:
 
 [Hypaethral](https://github.com/Hypaethral)
 
 [katie](https://github.com/dnaf)
 
-###What the heck is this?
+### What the heck is this?
 
 Dev Bros was looking for a place to share information in the form of questions and links, so we checked out Google Spaces. But then Google Spaces died.
 
